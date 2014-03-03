@@ -1,0 +1,23 @@
+{
+
+	"font_size": 9,
+	"bold_folder_labels": true,
+	"highlight_modified_tabs": true,
+	"trim_trailing_white_space_on_save": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"file_exclude_patterns":
+	[
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"log",
+		"tmp",
+		"node_modules",
+		".sass-cache"
+	]
+}
